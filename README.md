@@ -19,6 +19,6 @@ Creamos un repositorio en git hub y copiamos la url.
 
 -Ahora hacemos los cambios que queramos en el repositorio y cuando hagamos un commit and push lo mandara todo al repositorio
 que creamos en Git Hub
-![5.png](capturas/5.png)
+![5.png](5.png)
 
 
