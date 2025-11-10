@@ -1,19 +1,24 @@
 #Pasos para clonar un repositorio
 
+-Primero tenemos ir al repositorio que queremos clonar y copiar la url
+![Captura de pantalla 2025-11-10 230014.png](Captura%20de%20pantalla%202025-11-10%20230014.png)
 
 
-    -Copie la URL de mi proyecto de la parte "clonar" de github.
+-Ahora entramos en pycharm y buscamos la opcion de clonado en el apartado de Git
+![1 Captura de pantalla 2025-11-10 154257.png](1%20Captura%20de%20pantalla%202025-11-10%20154257.png)
 
-    -Fui a PyCharm y creé un nuevo proyecto.
 
-    -Creé un repositorio git
+-pegamos la url que copiamos anteriormente y le damos a clonar
+![2 Captura de pantalla 2025-11-10 154351.png](2%20Captura%20de%20pantalla%202025-11-10%20154351.png)
 
-    -Fui a remotos desde el menú desplegable Git, pegué mi URL, hice clic en OK, luego en OK en la siguiente ventana.
+Creamos un repositorio en git hub y copiamos la url.
 
-    -Volví al menú desplegable Git y hice clic en pull y obtuve una ventana diferente a la del vídeo de YouTube. Aquí hay una captura de pantalla.
+-le damos click derecho al repositorio que clonamos > Git > Manage Remotes y pegamos la url del repositorio que creamos en git 
+![3 Captura de pantalla 2025-11-10 154515.png](3%20Captura%20de%20pantalla%202025-11-10%20154515.png)
 
-    -El menú desplegable "Especificar rama" no tenía opciones. Decía que presionara ctrl F5 para actualizar las ramas, así que lo hice y master aparece en el menú desplegable.
 
-    -En el menú desplegable Modificar opciones, hice clic en Rebasar los cambios entrantes en la parte superior de la rama actual.
+-Ahora hacemos los cambios que queramos en el repositorio y cuando hagamos un commit and push lo mandara todo al repositorio
+que creamos en Git Hub
+![5.png](5.png)
 
-    -Finalmente, hice clic en Pull y este es el resultado 
+
